@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gunhee Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunhee-jeong&show_icons=true&theme=chartreuse-dark)
+
 <!--
 **gunhee-jeong/gunhee-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
