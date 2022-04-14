@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![gunhee Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunhee-jeong&show_icons=true&theme=chartreuse-dark)
 
 <!--
